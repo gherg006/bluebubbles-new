@@ -1,0 +1,3 @@
+protocol:
+  description: > builds, decodes and validates packets. Use json for ex {"type": "message", "data": "Hello World!"}
+  
